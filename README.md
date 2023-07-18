@@ -7,6 +7,8 @@ Our approach generates collision-free trajectories using a hierarchical Path Pla
 
 <img src="images/OBCA_dynObs_demo1.gif" width="500" />  <img src="images/OBCA_dynObs_demo11.gif" width="500">
 
+You can find more information about the project here: <a href="ME231_Team9_Project_Technical_Report.pdf" target="_blank">Design of Autonomous Delivery Using Time Optimal MPC Controller with Obstacle Avoidance.</a>
+
 ## Comparsion of different Method
 The following image and animation show the comparsion of using different path planning method, includes
 - A*
